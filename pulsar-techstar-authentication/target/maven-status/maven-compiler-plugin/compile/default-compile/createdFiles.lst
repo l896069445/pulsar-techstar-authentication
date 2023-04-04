@@ -1,0 +1,3 @@
+auth\client\VVAuthenticationDataProvider.class
+auth\server\VVAuthenticationProvider.class
+auth\client\VVAuthentication.class
